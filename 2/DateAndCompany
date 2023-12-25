@@ -1,0 +1,51 @@
+day1> db.placements.aggregate([ { $match: { "date": { $gte: "10/15/2020", $lte: "10/31/2020" } } }, { $group: { _id: "$date", company: { $addToSet: "$company" }, year: { $first: "$year" }, month: { $first: "$month" } } }] )
+[
+  {
+    _id: '10/24/2020',
+    company: [ 'HCL Technologies:' ],
+    year: 2020,
+    month: 'october'
+  },
+  {
+    _id: '10/19/2020',
+    company: [ 'Wipro' ],
+    year: 2020,
+    month: 'october'
+  },
+  {
+    _id: '10/17/2020',
+    company: [ 'Wipro', 'Infosys' ],
+    year: 2020,
+    month: 'october'
+  },
+  {
+    _id: '10/23/2020',
+    company: [ 'HCL Technologies:' ],
+    year: 2020,
+    month: 'october'
+  },
+  {
+    _id: '10/15/2020',
+    company: [ 'TCS', 'Infosys' ],
+    year: 2020,
+    month: 'october'
+  },
+  {
+    _id: '10/29/2020',
+    company: [ 'HCL Technologies:' ],
+    year: 2020,
+    month: 'october'
+  },
+  {
+    _id: '10/22/2020',
+    company: [ 'HCL Technologies:' ],
+    year: 2020,
+    month: 'october'
+  },
+  {
+    _id: '10/16/2020',
+    company: [ 'Infosys' ],
+    year: 2020,
+    month: 'october'
+  }
+]

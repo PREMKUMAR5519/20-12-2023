@@ -1,0 +1,147 @@
+day1> db.attendance.aggregate([ { $match: { "date": { $gte: "10/15/2020", $lte: "10/31/2020" }, "attendance": "absent" } }, ] )
+[
+  {
+    _id: ObjectId('65894f8ab665d480d339159e'),
+    id: '68',
+    students: 'Kartik Raghunathan',
+    month: 'october',
+    date: '10/20/2020',
+    attendance: 'absent',
+    taskstatus: 'incompleted'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915a4'),
+    id: '74',
+    students: 'Rahul Raju',
+    month: 'october',
+    date: '10/22/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915a7'),
+    id: '77',
+    students: 'Shweta Shenoy',
+    month: 'october',
+    date: '10/22/2020',
+    attendance: 'absent',
+    taskstatus: 'incompleted'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915ae'),
+    id: '84',
+    students: 'Anu Krishnan',
+    month: 'october',
+    date: '10/24/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915ba'),
+    id: '96',
+    students: 'Rahul Raju',
+    month: 'october',
+    date: '10/25/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915bc'),
+    id: '98',
+    students: 'Suresh Varma',
+    month: 'october',
+    date: '10/25/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915c0'),
+    id: '102',
+    students: 'Anitha Balaji',
+    month: 'october',
+    date: '10/26/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915c5'),
+    id: '107',
+    students: 'Rahul Raju',
+    month: 'october',
+    date: '10/26/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915cb'),
+    id: '113',
+    students: 'Anitha Balaji',
+    month: 'october',
+    date: '10/27/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915d0'),
+    id: '118',
+    students: 'Rahul Raju',
+    month: 'october',
+    date: '10/27/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915d1'),
+    id: '119',
+    students: 'Ayesha Khanna',
+    month: 'october',
+    date: '10/27/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915d2'),
+    id: '120',
+    students: 'Suresh Varma',
+    month: 'october',
+    date: '10/27/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915d7'),
+    id: '125',
+    students: 'Deepak Menon',
+    month: 'october',
+    date: '10/28/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915db'),
+    id: '129',
+    students: 'Rahul Raju',
+    month: 'october',
+    date: '10/28/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915e8'),
+    id: '142',
+    students: 'Suresh Varma',
+    month: 'october',
+    date: '10/30/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  },
+  {
+    _id: ObjectId('65894f8ab665d480d33915ea'),
+    id: '144',
+    students: 'Nisha Sharma',
+    month: 'october',
+    date: '10/30/2020',
+    attendance: 'absent',
+    taskstatus: 'completed'
+  }
+]

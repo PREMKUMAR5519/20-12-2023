@@ -1,0 +1,40 @@
+
+day1> db.mentor.find({students:{$gte:"15"}})
+[
+  {
+    _id: ObjectId('65894869b665d480d3391550'),
+    id: '2',
+    mentor: 'Rohit Verma',
+    students: '25'
+  },
+  {
+    _id: ObjectId('65894869b665d480d3391552'),
+    id: '4',
+    mentor: 'Karthiga Chandran',
+    students: '15'
+  },
+  {
+    _id: ObjectId('65894869b665d480d3391553'),
+    id: '5',
+    mentor: 'Siddharth Ramachandran',
+    students: '43'
+  },
+  {
+    _id: ObjectId('65894869b665d480d3391554'),
+    id: '6',
+    mentor: 'Lavanya Prasad',
+    students: '36'
+  },
+  {
+    _id: ObjectId('65894869b665d480d3391555'),
+    id: '7',
+    mentor: 'Vikram Sundaram',
+    students: '22'
+  },
+  {
+    _id: ObjectId('65894869b665d480d3391556'),
+    id: '8',
+    mentor: 'Gayathri Rao',
+    students: '28'
+  }
+]

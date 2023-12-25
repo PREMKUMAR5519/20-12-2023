@@ -1,0 +1,48 @@
+day1> db.placements.aggregate([ { $match: { "date": { $gte: "10/15/2020", $lte: "10/31/2020" } } }, { $group: { _id: "$company", students: { $addToSet: "$students" }, year: { $first: "$year" }, month: { $first: "$month" } } }] )
+[
+  {
+    _id: 'Infosys',
+    students: [
+      'Aishwarya Rajan',
+      'Raghav Desai',
+      'Divya Gupta',
+      'Vigneshwaran Subramanian'
+    ],
+    year: 2020,
+    month: 'october'
+  },
+  {
+    _id: 'Wipro',
+    students: [
+      'Arvind Rajagopal',
+      'Kavya Menon',
+      'Pooja Shankar',
+      'Senthil Kumar',
+      'Rohit Verma'
+    ],
+    year: 2020,
+    month: 'october'
+  },
+  {
+    _id: 'TCS',
+    students: [ 'Shalini Raja', 'Ravi Krishnan' ],
+    year: 2020,
+    month: 'october'
+  },
+  {
+    _id: 'HCL Technologies:',
+    students: [
+      'Lavanya Prasad',
+      'Karthiga Chandran',
+      'Anjali Raghavan',
+      'Arun Chandra',
+      'Pradeep Pillai',
+      'Vikram Sundaram',
+      'Gayathri Rao',
+      'Nithya Reddy',
+      'Siddharth Ramachandran'
+    ],
+    year: 2020,
+    month: 'october'
+  }
+]

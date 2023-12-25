@@ -1,0 +1,2 @@
+ db.attendance.aggregate([ { $match: { "date": { $gte: "10/15/2020", $lte: "10/31/2020" }, "taskstatus": "incompleted" } }, { $group: { _id: null, count: { $sum: 1 } } }] )
+[ { _id: null, count: 18 } ]

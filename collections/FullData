@@ -1,0 +1,569 @@
+[
+ {
+  "ID": 1,
+  "TITLE": "Javascript",
+  "DATE": "09/21/2023",
+  "ROADMAP": "day-1",
+  "ACTIVITIES": "http1.1 Vs Http2",
+  "CONTENT": "intro to browser",
+  "MONTH": "september"
+ },
+ {
+  "ID": 2,
+  "TITLE": "Javascript",
+  "DATE": "09/22/2023",
+  "ROADMAP": "day-2",
+  "ACTIVITIES": "document and window object",
+  "CONTENT": "datatypes",
+  "MONTH": "september"
+ },
+ {
+  "ID": 3,
+  "TITLE": "Javascript",
+  "DATE": "09/25/2023",
+  "ROADMAP": "day-3",
+  "ACTIVITIES": "restcountries API",
+  "CONTENT": "array & object",
+  "MONTH": "september"
+ },
+ {
+  "ID": 4,
+  "TITLE": "Javascript",
+  "DATE": "09/26/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "hoisting,scope,loops",
+  "MONTH": "september"
+ },
+ {
+  "ID": 5,
+  "TITLE": "Javascript",
+  "DATE": "09\/27\/2023",
+  "ROADMAP": "day-4",
+  "ACTIVITIES": "arrow function",
+  "CONTENT": "functions",
+  "MONTH": "september"
+ },
+ {
+  "ID": 6,
+  "TITLE": "Javascript",
+  "DATE": "09\/28\/2023",
+  "ROADMAP": "day-5",
+  "ACTIVITIES": "resume in json",
+  "CONTENT": "ES5 vs ES6",
+  "MONTH": "september"
+ },
+ {
+  "ID": 7,
+  "TITLE": "Javascript",
+  "DATE": "09\/29\/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "Rest Spread & Recap",
+  "MONTH": "september"
+ },
+ {
+  "ID": 8,
+  "TITLE": "NO_CLASSS",
+  "DATE": "10\/02\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "october"
+ },
+ {
+  "ID": 9,
+  "TITLE": "Javascript",
+  "DATE": "10\/03\/2023",
+  "ROADMAP": "Day-6",
+  "ACTIVITIES": "details of person in class ",
+  "CONTENT": "OOP in JS",
+  "MONTH": "october"
+ },
+ {
+  "ID": 10,
+  "TITLE": "Javascript",
+  "DATE": "10\/04\/2023",
+  "ROADMAP": "Day-7",
+  "ACTIVITIES": "restcountries API data",
+  "CONTENT": "Array methods",
+  "MONTH": "october"
+ },
+ {
+  "ID": 11,
+  "TITLE": "Javascript",
+  "DATE": "10\/05\/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "Reduce & Recap",
+  "MONTH": "october"
+ },
+ {
+  "ID": 12,
+  "TITLE": "HTML",
+  "DATE": "10\/06\/2023",
+  "ROADMAP": "day-8",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "HTML intro",
+  "MONTH": "october"
+ },
+ {
+  "ID": 13,
+  "TITLE": "HTML & CSS",
+  "DATE": "10\/09\/2023",
+  "ROADMAP": "day-9",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "HTML & CSS",
+  "MONTH": "october"
+ },
+ {
+  "ID": 14,
+  "TITLE": "NO_CLASSS",
+  "DATE": "10\/10\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "october"
+ },
+ {
+  "ID": 15,
+  "TITLE": "HTML & CSS",
+  "DATE": "10\/11\/2023",
+  "ROADMAP": "day-10",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "grid,flex,position",
+  "MONTH": "october"
+ },
+ {
+  "ID": 16,
+  "TITLE": "HTML & CSS",
+  "DATE": "10\/12\/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "measurements,grid,flex",
+  "MONTH": "october"
+ },
+ {
+  "ID": 17,
+  "TITLE": "NO_CLASSS",
+  "DATE": "10\/13\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "october"
+ },
+ {
+  "ID": 18,
+  "TITLE": "HTML & CSS",
+  "DATE": "10\/16\/2023",
+  "ROADMAP": "day-11",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "fonts,icon,media query",
+  "MONTH": "october"
+ },
+ {
+  "ID": 19,
+  "TITLE": "HTML & CSS",
+  "DATE": "10\/17\/2023",
+  "ROADMAP": "day-12",
+  "ACTIVITIES": "interface design ",
+  "CONTENT": "bootstrap",
+  "MONTH": "october"
+ },
+ {
+  "ID": 20,
+  "TITLE": "HTML & CSS",
+  "DATE": "10\/18\/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "bootstrap",
+  "MONTH": "october"
+ },
+ {
+  "ID": 21,
+  "TITLE": "DOM",
+  "DATE": "10\/19\/2023",
+  "ROADMAP": "day-13",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "intro to DOM",
+  "MONTH": "october"
+ },
+ {
+  "ID": 22,
+  "TITLE": "DOM",
+  "DATE": "10\/20\/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "DOM Manipulation",
+  "MONTH": "october"
+ },
+ {
+  "ID": 23,
+  "TITLE": "NO_CLASSS",
+  "DATE": "10\/23\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "october"
+ },
+ {
+  "ID": 24,
+  "TITLE": "NO_CLASSS",
+  "DATE": "10\/24\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "october"
+ },
+ {
+  "ID": 25,
+  "TITLE": "DOM",
+  "DATE": "10\/25\/2023",
+  "ROADMAP": "day-14",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "Document Vs Window",
+  "MONTH": "october"
+ },
+ {
+  "ID": 26,
+  "TITLE": "DOM",
+  "DATE": "10\/26\/2023",
+  "ROADMAP": "day-15",
+  "ACTIVITIES": "pagination,calculator",
+  "CONTENT": "Recap",
+  "MONTH": "october"
+ },
+ {
+  "ID": 27,
+  "TITLE": "DOM",
+  "DATE": "10\/27\/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "DOM Manipulation",
+  "MONTH": "october"
+ },
+ {
+  "ID": 28,
+  "TITLE": "ASYNC PROGRAMING",
+  "DATE": "10\/30\/2023",
+  "ROADMAP": "day-16",
+  "ACTIVITIES": "call back hell",
+  "CONTENT": "Callback",
+  "MONTH": "october"
+ },
+ {
+  "ID": 29,
+  "TITLE": "ASYNC PROGRAMING",
+  "DATE": "10\/31\/2023",
+  "ROADMAP": "day-17",
+  "ACTIVITIES": "fetch API",
+  "CONTENT": "Promise",
+  "MONTH": "october"
+ },
+ {
+  "ID": 30,
+  "TITLE": "ASYNC PROGRAMING",
+  "DATE": "11\/01\/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "Promise",
+  "MONTH": "november"
+ },
+ {
+  "ID": 31,
+  "TITLE": "No_CLASSS",
+  "DATE": "11\/02\/2023",
+  "ROADMAP": "No_CLASSS",
+  "ACTIVITIES": "No_CLASSS",
+  "CONTENT": "No_CLASSS",
+  "MONTH": "november"
+ },
+ {
+  "ID": 32,
+  "TITLE": "ASYNC PROGRAMING",
+  "DATE": "11\/03\/2023",
+  "ROADMAP": "day-18",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "Async - await",
+  "MONTH": "november"
+ },
+ {
+  "ID": 33,
+  "TITLE": "ASYNC PROGRAMING",
+  "DATE": "11\/06\/2023",
+  "ROADMAP": "day-19",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "req info & req init",
+  "MONTH": "november"
+ },
+ {
+  "ID": 34,
+  "TITLE": "ASYNC PROGRAMING",
+  "DATE": "11\/07\/2023",
+  "ROADMAP": "day-20",
+  "ACTIVITIES": "fetch 3 API",
+  "CONTENT": "recap of Topics",
+  "MONTH": "november"
+ },
+ {
+  "ID": 35,
+  "TITLE": "ASYNC PROGRAMING",
+  "DATE": "11\/08\/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "recap",
+  "MONTH": "november"
+ },
+ {
+  "ID": 36,
+  "TITLE": "NO_CLASSS",
+  "DATE": "11\/09\/2023",
+  "ROADMAP": "No_CLASSS",
+  "ACTIVITIES": "No_CLASSS",
+  "CONTENT": "No_CLASSS",
+  "MONTH": "november"
+ },
+ {
+  "ID": 37,
+  "TITLE": "No_CLASSS",
+  "DATE": "11\/10\/2023",
+  "ROADMAP": "No_CLASSS",
+  "ACTIVITIES": "No_CLASSS",
+  "CONTENT": "No_CLASSS",
+  "MONTH": "november"
+ },
+ {
+  "ID": 38,
+  "TITLE": "No_CLASSS",
+  "DATE": "11\/13\/2023",
+  "ROADMAP": "No_CLASSS",
+  "ACTIVITIES": "No_CLASSS",
+  "CONTENT": "No_CLASSS",
+  "MONTH": "november"
+ },
+ {
+  "ID": 39,
+  "TITLE": "REACT",
+  "DATE": "11\/14\/2023",
+  "ROADMAP": "day-21",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "ES5 vs ES6",
+  "MONTH": "november"
+ },
+ {
+  "ID": 40,
+  "TITLE": "REACT",
+  "DATE": "11\/15\/2023",
+  "ROADMAP": "day-22",
+  "ACTIVITIES": "Price Card in React",
+  "CONTENT": "Why React",
+  "MONTH": "november"
+ },
+ {
+  "ID": 41,
+  "TITLE": "REACT",
+  "DATE": "11\/16\/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "Jsx,Resct",
+  "MONTH": "november"
+ },
+ {
+  "ID": 42,
+  "TITLE": "REACT",
+  "DATE": "11\/17\/2023",
+  "ROADMAP": "day-23",
+  "ACTIVITIES": "shopping Cart",
+  "CONTENT": "hooks & states",
+  "MONTH": "november"
+ },
+ {
+  "ID": 43,
+  "TITLE": "REACT",
+  "DATE": "11\/20\/2023",
+  "ROADMAP": "day-24",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "React components",
+  "MONTH": "november"
+ },
+ {
+  "ID": 44,
+  "TITLE": "REACT",
+  "DATE": "11\/21\/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "Props",
+  "MONTH": "november"
+ },
+ {
+  "ID": 45,
+  "TITLE": "REACT",
+  "DATE": "11\/22\/2023",
+  "ROADMAP": "day-25",
+  "ACTIVITIES": "todo App CRUD",
+  "CONTENT": "react hooks",
+  "MONTH": "november"
+ },
+ {
+  "ID": 46,
+  "TITLE": "REACT",
+  "DATE": "11\/23\/2023",
+  "ROADMAP": "day-26",
+  "ACTIVITIES": "react-router-dom",
+  "CONTENT": "Router",
+  "MONTH": "november"
+ },
+ {
+  "ID": 47,
+  "TITLE": "NO_CLASSS",
+  "DATE": "11\/24\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "november"
+ },
+ {
+  "ID": 48,
+  "TITLE": "REACT",
+  "DATE": "11\/27\/2023",
+  "ROADMAP": "day-27",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "Recap",
+  "MONTH": "november"
+ },
+ {
+  "ID": 49,
+  "TITLE": "REACT",
+  "DATE": "11\/28\/2023",
+  "ROADMAP": "day-28",
+  "ACTIVITIES": "Cart Page ",
+  "CONTENT": "Context API",
+  "MONTH": "november"
+ },
+ {
+  "ID": 50,
+  "TITLE": "REACT",
+  "DATE": "11\/29\/2023",
+  "ROADMAP": "day-29",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "UseRef & UseReducer",
+  "MONTH": "november"
+ },
+ {
+  "ID": 51,
+  "TITLE": "NO_CLASSS",
+  "DATE": "11\/30\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "november"
+ },
+ {
+  "ID": 52,
+  "TITLE": "REACT",
+  "DATE": "12\/01\/2023",
+  "ROADMAP": "day-30",
+  "ACTIVITIES": "CRUD in API",
+  "CONTENT": "Axios",
+  "MONTH": "december"
+ },
+ {
+  "ID": 53,
+  "TITLE": "NO_CLASSS",
+  "DATE": "12\/04\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "december"
+ },
+ {
+  "ID": 54,
+  "TITLE": "NO_CLASSS",
+  "DATE": "12\/05\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "december"
+ },
+ {
+  "ID": 55,
+  "TITLE": "NO_CLASSS",
+  "DATE": "12\/06\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "december"
+ },
+ {
+  "ID": 56,
+  "TITLE": "NO_CLASSS",
+  "DATE": "12\/07\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "december"
+ },
+ {
+  "ID": 57,
+  "TITLE": "NO_CLASSS",
+  "DATE": "12\/08\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "december"
+ },
+ {
+  "ID": 58,
+  "TITLE": "REACT",
+  "DATE": "12\/11\/2023",
+  "ROADMAP": "day-31",
+  "ACTIVITIES": "Form Validation",
+  "CONTENT": "Formik & Recap",
+  "MONTH": "december"
+ },
+ {
+  "ID": 59,
+  "TITLE": "REACT",
+  "DATE": "12\/12\/2023",
+  "ROADMAP": "day-32",
+  "ACTIVITIES": "Cart Page ",
+  "CONTENT": "Redux",
+  "MONTH": "december"
+ },
+ {
+  "ID": 60,
+  "TITLE": "REACT",
+  "DATE": "12\/13\/2023",
+  "ROADMAP": "additional",
+  "ACTIVITIES": "NO-TASK",
+  "CONTENT": "Redux",
+  "MONTH": "december"
+ },
+ {
+  "ID": 61,
+  "TITLE": "NO_CLASSS",
+  "DATE": "12\/14\/2023",
+  "ROADMAP": "NO_CLASSS",
+  "ACTIVITIES": "NO_CLASSS",
+  "CONTENT": "NO_CLASSS",
+  "MONTH": "december"
+ },
+ {
+  "ID": 62,
+  "TITLE": "DATABASE",
+  "DATE": "12\/15\/2023",
+  "ROADMAP": "day-33",
+  "ACTIVITIES": "SQL bolt task",
+  "CONTENT": "MYSQl",
+  "MONTH": "december"
+ },
+ {
+  "ID": 63,
+  "TITLE": "DATABASE",
+  "DATE": "12\/18\/2023",
+  "ROADMAP": "day-34",
+  "ACTIVITIES": "DB mode; for guvi",
+  "CONTENT": "MYSQl",
+  "MONTH": "december"
+ }
+]
